@@ -25,7 +25,7 @@ if __name__ == '__main__':
     text = "this is the string to search in"
     pattern = "the"
     s = BoyerMooreHorspool(pattern, text)
-    print 'Text:',text
-    print 'Pattern:',pattern
+    print ('Text:',text)
+    print ('Pattern:',pattern)
     if s > -1:
-        print 'Pattern \"' + pattern + '\" found at position',s
+        print ('Pattern \"' + pattern + '\" found at position',s)
