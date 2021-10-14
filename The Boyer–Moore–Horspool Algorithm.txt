@@ -1,5 +1,5 @@
 # bmh.py
-#
+#Test in 15/10/2021 
 # An implementation of Boyer-Moore-Horspool string searching.
 #
 # This code is Public Domain.
